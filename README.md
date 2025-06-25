@@ -27,8 +27,8 @@ To set up the project locally, please follow these steps. This project was built
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/Rakshit10Verma/aqi-india-forecast.git
-    cd aqi-india-forecast
+    git clone https://github.com/Rakshit10Verma/india_aqi_forecast.git
+    cd india_aqi_forecast
     ```
 
 2.  **Create and Activate a Virtual Environment**
