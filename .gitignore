@@ -12,8 +12,8 @@ env/
 .idea/
 .vscode/
 
-# Large Raw Data files & processed Data files
-data/raw/station_hour.csv
+# Raw Data files & processed Data files
+data/raw/
 data/processed/
 
 # Notebook checkpoints

@@ -11,3 +11,13 @@ Severe air pollution is a critical public health issue in India, leading to wide
    ```bash
    git clone https://github.com/Rakshit10Verma/india_aqi_forecast.git
    cd india_aqi_forecast
+
+## Data
+
+Most raw data files for this project are included in the repository. However, `station_hour.csv` (~200MB) is excluded due to its large size.
+
+The complete dataset, including the large file, can be downloaded from the original source on Kaggle:
+
+[Air Quality Data in India (2015-2020)](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india)
+
+Please ensure all files from the download are placed in the `data/raw/` directory before running the notebooks.
