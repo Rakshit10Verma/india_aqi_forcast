@@ -74,5 +74,3 @@ The project is structured into Jupyter Notebooks that should be run in order.
 3.  **Modeling and Evaluation (`03-Modeling_and_Evaluation.ipynb`)**
     *   This notebook implements the full modeling pipeline: feature engineering, training the four models, and evaluating their performance.
     *   Running this notebook will produce the final performance metrics and save key visuals (like prediction plots and feature importance) to the `reports/figures/` directory.
-
-## Project Structure
