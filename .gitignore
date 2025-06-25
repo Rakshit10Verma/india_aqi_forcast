@@ -12,8 +12,8 @@ env/
 .idea/
 .vscode/
 
-# Data files (we don't track large data in Git)
-data/raw/
+# Large Raw Data files & processed Data files
+data/raw/station_hour.csv
 data/processed/
 
 # Notebook checkpoints
