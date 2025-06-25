@@ -27,10 +27,9 @@ To set up the project locally, please follow these steps. This project was built
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/aqi-india-forecast.git
+    git clone https://github.com/Rakshit10Verma/aqi-india-forecast.git
     cd aqi-india-forecast
     ```
-    *(Replace `YOUR_USERNAME` with your actual GitHub username.)*
 
 2.  **Create and Activate a Virtual Environment**
     It is highly recommended to use a virtual environment to manage dependencies and avoid conflicts.
