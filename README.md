@@ -19,7 +19,7 @@ This repository contains all the necessary data, code, notebooks, and the final 
   - LightGBM
   - XGBoost (Best performing model)
 - **Evaluation:** Robust evaluation using a chronological train-test split and standard regression metrics (RMSE and R²).
-- **Final Report:** A detailed academic report (~2500 words) summarizing the project's methodology, findings, and implications.
+- **Final Report:** A detailed academic report (~2000 words) summarizing the project's methodology, findings, and implications.
 
 ## Installation
 
